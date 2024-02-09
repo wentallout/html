@@ -1,6 +1,10 @@
 # html
 all of the tiny but significant aspects of HTML
 
+## cheatsheet
+
+https://github.com/LeCoupa/awesome-cheatsheets/blob/master/frontend/html5.html
+
 ## Bad parts
 
 https://www.htmhell.dev/adventcalendar/2023/13
